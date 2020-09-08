@@ -1,0 +1,4 @@
+#Fri Sep 04 02:57:32 EET 2020
+base.0=C\:\\Users\\BcE\\IdeaProjects\\medicoo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

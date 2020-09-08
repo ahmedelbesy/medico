@@ -1,0 +1,13 @@
+String base_api="https://medicoapi.ahmedhesham.systems/api";
+String login_api="/login";
+String registrastion_user="/user/register";
+String registrastion_org="/manger/register";
+String dropdown= "/general/org_type";
+String dropdown_employee="/general/employeetype";
+String Registrastion_Employeee="/employee/register";
+String AddData="/product/create";
+String Getdata="/product/get";
+String login_emoloyee="/employee/login";
+String Delete_Data="/product/delete";
+String Update="/product/update";
+String finddata="/product/find";
