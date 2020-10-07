@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:medicoo/screen/onboarding.dart';
-import 'package:medicoo/screen/splash_screen.dart';
+import 'package:medicoo/UI/Screens/onboarding.dart';
+import 'package:medicoo/UI/Screens/splash_screen.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
 
 
@@ -17,6 +18,7 @@ void main ()async{
     _screen=Splash();
   }
   runApp(MyApp(_screen));
+
 }
 
 class MyApp extends StatelessWidget {

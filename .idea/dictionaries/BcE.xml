@@ -2,21 +2,37 @@
   <dictionary name="BcE">
     <words>
       <w>adddata</w>
+      <w>coustm</w>
+      <w>emoloyee</w>
+      <w>employeee</w>
+      <w>employeetype</w>
       <w>fech</w>
+      <w>finddata</w>
+      <w>flatbutton</w>
+      <w>getdata</w>
+      <w>getpharmacy</w>
+      <w>getuser</w>
       <w>hinttext</w>
       <w>isloading</w>
       <w>jsondata</w>
       <w>linkapi</w>
       <w>logintype</w>
+      <w>medi</w>
       <w>medicoo</w>
+      <w>newuser</w>
+      <w>pharmcy</w>
+      <w>pharmcys</w>
       <w>prefixicon</w>
       <w>produt</w>
+      <w>recive</w>
       <w>registrastion</w>
       <w>showdata</w>
       <w>suffixicon</w>
       <w>suffixiconcolor</w>
       <w>suffixiconfunction</w>
+      <w>textformfield</w>
       <w>textinputtype</w>
+      <w>textt</w>
     </words>
   </dictionary>
 </component>
